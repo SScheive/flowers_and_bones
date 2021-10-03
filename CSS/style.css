@@ -1,0 +1,24 @@
+/* General Settings */
+
+html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust:100%; /* 2 */
+}
+h1 {
+	font-size: 24px;
+    font-family: 'Alegreya', serif;
+	margin: 0;
+	color: #A3703E;
+	}
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    color: #1F0812;
+}
+
+a:link { color: #C2EFB3; }
+a:visited { color: #97ABB1; }
+a:active { color: #C2EFB3; }
+a:hover { color: #C2EFB3; }
+
